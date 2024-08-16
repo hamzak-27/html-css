@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    
+
+
+}
+
+.header .part-1 {
+    flex: 1;
+}
+
+.header .part-2 {
+    flex: 2;
+}
